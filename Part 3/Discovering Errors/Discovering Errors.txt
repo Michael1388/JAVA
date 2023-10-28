@@ -1,0 +1,8 @@
+
+Discovering errors
+Learning Objectives
+Know the term perceptual blindness, and can learn to recognize essential (and non-essential) information with practice.
+Know ways to comment code, and understand the importance of variable names on readability of your code.
+Know the concept print-debugging, and know how to search for errors in the source code by printing.
+
+There are no exercises completed in this section, just two quizes

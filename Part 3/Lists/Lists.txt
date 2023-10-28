@@ -1,0 +1,7 @@
+Lists
+Learning Objectives
+You are familiar with the list structure and know how to use a list in a program.
+You are familiar with the concept of an index, you can add values to a list, and you know how to retrieve information from a list's indices.
+You know how to iterate over a list with multiple different loop types.
+You know how to check if a value exists in a list, and also know how to remove values from a list.
+You are aware of the list being a reference-type variable, and become familiar with using lists as method parameters.
